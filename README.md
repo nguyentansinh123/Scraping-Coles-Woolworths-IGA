@@ -90,6 +90,7 @@ For production apps, consider:
 ✅ Running scrapers periodically and caching results
 
 ✅ Respecting Coles’ terms of service
+-------------------------------------------------------------------------------------------------------
 
 🛒 Coles Product Detail Scraper
 
